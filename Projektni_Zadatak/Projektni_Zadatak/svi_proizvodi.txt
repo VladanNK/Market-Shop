@@ -1,0 +1,18 @@
+Svi ponudjeni proizvodi:
+
+*****************************************
+Mleko - 250
+Hleb - 75
+Jogurt - 40
+Jaja - 150
+Pavlaka - 65
+Kecap - 80
+So - 25
+Biber - 35
+Beli Luk - 45
+Kromir - 160
+Paradajz - 130
+Banana - 80
+Zelena salata - 90
+*****************************************
+
